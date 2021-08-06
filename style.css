@@ -1,0 +1,25 @@
+.test_image_and_result{
+    text-align:center;
+  }
+  .test_image{
+    color:yellow;
+    font-size:20px;
+  }
+  .google_lens-output{
+    color:yellow;
+    font-size:18px;
+  }
+  .bold_google{
+    color:blue;
+  }
+  .bold-mobilenet{
+    color:pink;
+  }
+  .mobilenet-output{
+    color:yellow;
+    font-size:18px;
+  }
+  .result{
+    color:purple;
+    font-size:25px;
+  }
